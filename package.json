@@ -1,0 +1,23 @@
+{
+  "name": "cloudexp",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudExperiences/cloudExperiences.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloudExperiences/cloudExperiences/issues"
+  },
+  "homepage": "https://github.com/CloudExperiences/cloudExperiences#readme"
+}
